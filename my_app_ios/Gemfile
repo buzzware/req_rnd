@@ -3,4 +3,5 @@ source 'https://rubygems.org'
 gem 'rake'
 # Add your dependencies here:
 
-gem 'my_gem', path: '../my_gem'
+gem 'my_gem'
+

@@ -1,5 +1,5 @@
 require "my_gem/version"
-
-module MyGem
-  # Your code goes here...
-end
+require "my_gem/something"
+# module MyGem
+#   # Your code goes here...
+# end
